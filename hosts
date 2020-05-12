@@ -1,0 +1,29 @@
+# Title: Jumile's smart TV and streaming app blocklist for Pi-hole
+# Version: 12 May 2020
+# Description: My blocklist for smart TVs, Netflix, etc.
+
+# LG
+0.0.0.0 ad.lgappstv.com
+0.0.0.0 aic-ngfts.lge.com
+0.0.0.0 ibis.lgappstv.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
+0.0.0.0 smartshare.lgtvsdp.com
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 us.ibs.lgappstv.com
+0.0.0.0 us.info.lgsmartad.com
+0.0.0.0 us.lgtvsdp.com
+0.0.0.0 us.rdx2.lgtvsdp.com
+0.0.0.0 yumenetworks.com
+
+# Netflix
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+
+# Spotify
+0.0.0.0 api-tv.spotify.com
+
+# Yamaha AV receivers
+0.0.0.0 avpro.global.yamaha.com
