@@ -1,6 +1,7 @@
-# Title: Jumile's smart TV and streaming app blocklist for Pi-hole
+# Title: Couladin's smart TV and streaming app blocklist for Pi-hole
 # Version: 12 May 2020
 # Description: My blocklist for smart TVs, Netflix, etc.
+# Location: https://github.com/couladin/smarttv_blocklist
 
 # LG
 0.0.0.0 ad.lgappstv.com
